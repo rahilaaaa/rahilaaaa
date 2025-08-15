@@ -28,7 +28,7 @@ This is a **full-stack E-commerce Platform** built with **Python Django** for th
 - **Product Management:** Add, update, and display products with multiple variants.
 - **Shopping Cart:** Add valid product combinations, update quantities, and remove items.
 - **Order Management:** Place orders, view order history, and track status.
-- **chatbot to answer product inquiries.
+- **chatbo:t** to answer product inquiries.
 - **Admin Dashboard:** Manage users, products, and orders efficiently.
 - **Responsive Design:** Works on desktop and mobile devices.
 - **Secure Payments:** Integration with payment gateway.  
