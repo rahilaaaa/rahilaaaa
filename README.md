@@ -44,7 +44,6 @@ This is a **full-stack E-commerce Platform** built with **Python Django** for th
 
 ---
 
----
 
 ## 📫 How to Reach Me
 
