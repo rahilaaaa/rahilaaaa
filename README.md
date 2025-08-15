@@ -16,7 +16,7 @@
 ---
 
 # Major Project: 🛒 E-Commerce Platform
-🔗 [Live](https://your-live-link.com](https://www.zyft.shop/users/login/?next=/) | 💻 [GitHub](https://github.com/rahilaaaa/Gift_Customize)
+🔗 [Live](https://www.zyft.shop/users/login/?next=/) | 💻 [GitHub](https://github.com/rahilaaaa/Gift_Customize)
 
 This is a **full-stack E-commerce Platform** built with **Python Django** for the backend and **React** for the frontend. The platform allows users to browse products, manage a cart, place orders, and includes an AI-powered chatbot for customer support.  
 
